@@ -4,3 +4,4 @@ A collection of recipes I've used or want to use.
 * [Egg and Toast Tartlet](egg-and-toast-tarlet.md)
 * [Egg Nog](egg-nog.md)
 * [Fish Tacos](fish-tacos.md)
+* [Pumpkin pancakes](pumpkin-pancakes.md)
