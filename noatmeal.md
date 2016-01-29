@@ -1,8 +1,8 @@
-# Noateaml
+# Noatmeal
+
+Serves 1. Multiply as needed.
 
 ## Ingredients
-
-Serves 1
 
 - 3/8 cup ground flax seed
 - 2 eggs
